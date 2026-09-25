@@ -535,7 +535,7 @@ For real agricultural decisions, consult a qualified agricultural professional.
 
 <div align="center">
 
-**🌿 Sraja Thakur**
+**🌿 Srajal Singh**
 Plant Disease Recognition System
 
 B.Tech CSE
@@ -561,7 +561,7 @@ Your support is appreciated! 🌱
 
 <br/>
 
-Built with ❤️ by Sraja Thakur
+Built with ❤️ by Srajal Singh
 
 <br/>
 
@@ -569,6 +569,6 @@ Built with ❤️ by Sraja Thakur
 
 <br/><br/>
 
-© 2026 Sraja Thakur
+© 2026 Srajal Singh
 
 </div>
