@@ -31,7 +31,7 @@
 
 | | Link |
 |---|---|
-| 🚀 **Streamlit App** | Your deployed Render URL |
+| 🚀 **Streamlit App** | [Your deployed Render URL](https://plant-disease-app-tr7z.onrender.com/) |
 | 🐙 **GitHub Repository** | [github.com/srajalthakur/plant-disease-app](https://github.com/srajalthakur/plant-disease-app) |
 
 > **Note:** The application is built with Streamlit and uses the trained CNN model `plant_disease_model.keras` for prediction.
@@ -533,7 +533,7 @@ For real agricultural decisions, consult a qualified agricultural professional.
 
 ## 👩‍💻 Author
 
-<div align="center">
+
 
 **🌿 Srajal Singh**
 
