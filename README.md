@@ -536,7 +536,7 @@ For real agricultural decisions, consult a qualified agricultural professional.
 <div align="center">
 
 **🌿 Srajal Singh**
-Plant Disease Recognition System
+
 
 B.Tech CSE
 
@@ -553,6 +553,8 @@ If you found this project useful or interesting:
 - 💡 Share your feedback
 
 Your support is appreciated! 🌱
+
+---
 
 <div align="center">
 
